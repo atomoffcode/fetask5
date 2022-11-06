@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.head-1{
+    height: 80px;
+    padding: 20px 50px  ;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+.logo,.nav-bar,.menu{
+    float: left;
+}
+.logo{
+    width: 12%;
+    margin: 0 15px;
+}
+.logo img{
+    width: 80%;
+}
+.nav-bar{
+    padding: 10px 15px;
+}
+.nav-bar a{
+    text-decoration: none;
+    color: white;
+    padding: 25px;
+    margin-top: 20px;
+}
+.menu{
+    width: 1.5%;
+    margin-left:30%;
+}
+.menu img{
+    width: 100%;
+}
+.bigsection-1{
+    background-position: center;
+    background-size: 120%;
+    background-image: url(http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/parallax-2.jpg);
+}
+.section-1{
+    padding: 190px 332px 200px;
+}
+.sec-1{
+    text-align: center;
+}
+.h1{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-size: 50px;
+    line-height: 50px;
+    font-weight: bold;
+}
+.p1{
+    margin: auto;
+    width: 33.5%;
+    margin: 35px auto 50px;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 4px;
+    background-color:rgba(128, 128, 128, 0.30);
+}
+.int1 input{
+    width: 30%;
+    padding: 10px 25px;
+    border-radius: 2rem;
+    border: none;
+    font-size: 15px;
+    margin-bottom: 50px;
+
+}
+
+.boxes-1{
+    width: 47%;
+    height: 140px;
+    margin: auto;
+}
+.boxx{
+    padding: 20px;
+    margin: 15px;
+    float: left;
+    width: 110px;
+    height: 110px;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+.boxx img{
+    width: 60%;
+}
+.boxx p{
+    margin-top: 5px;
+    color: white;
+    font-size: .8rem;
+}
+.section-2{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    width: 65%;
+    margin: auto;
+}
+.p2{
+    font-weight: 300;
+    color: #9a9a9a;
+    font-size: 0.9rem;
+    margin: 60px 0 8px 0;
+    letter-spacing: 2px;
+}
+.h2{
+    color: #555555;
+    font-size: 2.3rem;
+    margin-bottom: 35px;
+    font-weight: bold;
+}
+
+.boxx2{
+    width: 31%;
+    height: 45%;
+    float: left;
+    margin: calc(7%/6);
+}
+.boxx2 img{
+    width: 100%;
+}
